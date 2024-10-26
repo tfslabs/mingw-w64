@@ -1,0 +1,11 @@
+Unofficial minor of MinGW for Windows 64
+
+For more detail, using this git command may help you to find the recent versions of MinGW for Windows 64
+
+    git branch -a
+
+Once you find your proper branch, check out this branch and start developing it
+    
+    git checkout <branch name>
+
+Happy developing!
